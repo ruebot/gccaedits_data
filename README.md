@@ -6,4 +6,4 @@ This repository is will contain periodic Twitter archive requests of the [@gccae
 
 ## License
 
-Public Domain
+The content of the data folder and tweets.csv of each archive request is Public Domain.
